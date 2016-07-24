@@ -2,7 +2,7 @@
 
 Original by QuadPiece [GitHub](https://github.com/QuadPiece)
 
-Maintainer: SinonX3 [GitHub](https://github.com/SinonX3), shadowzentral ([GitHub](https://github.com/shadowzentral), [Twitter](https://twitter.com/shadowzentral/)
+Maintainer: SinonX3 [GitHub](https://github.com/SinonX3), shadowzentral ([GitHub](https://github.com/shadowzentral), [Twitter](https://twitter.com/shadowzentral/))
 
 
 
