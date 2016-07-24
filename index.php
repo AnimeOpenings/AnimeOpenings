@@ -101,11 +101,11 @@
 
 		<!-- Open Graph Tags -->
 		<meta property="og:type" content="article" /> <!-- article or video.other -->
-		<meta property="og:url" content="https://openings.moe/?video=<?php echo $s_filename; ?>" />
-		<meta property="og:site_name" content="openings.moe" />
+		<meta property="og:url" content="https://www.anime-openings.net/?video=<?php echo $s_filename; ?>" />
+		<meta property="og:site_name" content="www.anime-openings.net" />
 		<meta property="og:title" content="<?php echo $title; ?>" />
 		<meta property="og:description" content="<?php echo $description; ?>" />
-		<meta property="al:web:url" content="https://openings.moe/?video=<?php echo $s_filename; ?>" />
+		<meta property="al:web:url" content="https://www.anime-openings.net/?video=<?php echo $s_filename; ?>" />
 
 		<!-- CSS and JS external resources block -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -174,9 +174,10 @@
 				<li class="link"><a href="/list/">Video list</a></li>
 				<li class="link"><a href="/hub/">Hub</a></li>
 				<li class="link"><a href="/hub/faq.php#keybindings">Keyboard bindings</a></li>
+				<li class="link"><a href="#">Donate (Soon)</a></li>
 			</ul>
 
-			<p class="betanote">This site is in beta. Request openings/endings and report errors by mentioning @QuadPiece on Twitter.</p>
+			<p class="betanote">Stable BETA Version. Request Openings/Endings and Report Errors by Mentioning @shadowzentral on Twitter.</p>
 		</div>
 
 		<div class="displayTopRight"></div>
