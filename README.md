@@ -1,11 +1,15 @@
-# animeopenings
+# AnimeOpenings (https://www.anime-openings.net/)
 
-Maintainer: QuadPiece ([GitHub](https://github.com/QuadPiece), [Twitter](https://twitter.com/QuadPiece/))
+Original by QuadPiece [GitHub](https://github.com/QuadPiece)
+
+Maintainer: SinonX3 [GitHub](https://github.com/SinonX3), shadowzentral ([GitHub](https://github.com/shadowzentral), [Twitter](https://twitter.com/shadowzentral/)
+
+
 
 ## To do:
 
-* Hopefully leave beta stage soon.
-* Redesign hub (In progress)
+* Change Codebase to "anime-openings.net"
+* Multi-Language if Needed
 
 *Check end of readme for list of things that WON'T be done*
 
@@ -25,7 +29,7 @@ Optional:
 
 ## Features
 
-Openings.moe has a lot of features. I'll list the main features here:
+anime-openings.net has a lot of features. I'll list the main features here:
 
 * Play ramdom videos from a folder
 * List all videos with metadata
@@ -36,9 +40,9 @@ Openings.moe has a lot of features. I'll list the main features here:
 
 ## Deployment
 
-Deploy it like a regular PHP site. It requires no rewrite rules and no dependencies. Either clone the repository with `git clone https://github.com/AniDevTwitter/animeopenings.git` or just download a zip with all the files, which you then place on your web server.
+Deploy it like a regular PHP site. It requires no rewrite rules and no dependencies. Either clone the repository with git clone command or just download a zip with all the files, which you then place on your web server.
 
-To make videos appear, create a `video` folder and fill it up, then add the video's information to the names.php file.
+To make videos appear, create a "video" folder and fill it up, then add the video's information to the names.php file.
 
 For additional configuration, such as replacing the chat and editing the structure or name of the metadata, you're on your own.
 
